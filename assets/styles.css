@@ -54,7 +54,7 @@ a {
 .header {
     position: relative;
     background: #e6f0ff;
-    height: 100vh;
+    height: calc(100vh - 90px);
     display: flex;
     flex-direction: column;
     font-weight: 500;
